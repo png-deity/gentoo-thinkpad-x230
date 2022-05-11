@@ -1,7 +1,5 @@
 # gentoo-thinkpad-x230
 
-This repo takes inspiration from ZMASLO/tp-x230-gentoo-kernel
-
 This repo is for assistance in configuring a Gentoo kernel for a Lenovo Thinkpad X230. Find a hardware capabilities list in hardware.md.md
 Heading 	# H1
 ## H2
@@ -21,12 +19,13 @@ Link 	[title](https://www.example.com)
 Image 	![alt text](image.jpg)
 \
 
-# Hardware enumeration
+# This is my Linux kernel configuration for my Lenovo Thinkpad X230. Hardware enumeration can be found below, and non-working hardware is noted.
 
-Model Lenovo Thinkpad X230
+## Basics
+Lenovo Thinkpad X230
 Type 2320-HQU
-CPU: 3rd Generation Ivy Bridge Intel Core i7-3520M
-Graphics: Intel HD Graphics 4000
+3rd Generation Ivy Bridge Intel Core i7-3520M
+Intel HD Graphics 4000
 
 Default Wireless Card Intel 6205
 
