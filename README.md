@@ -24,3 +24,14 @@ Image 	![alt text](image.jpg)
 ### Basics
 Lenovo Thinkpad X230
 Type 2320-HQU
+
+### Confirmed working
+- Ethernet
+- Wifi
+
+### Presumed working
+
+
+### In progress
+
+### Does not work
